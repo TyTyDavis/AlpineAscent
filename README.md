@@ -24,6 +24,7 @@ Z/C/N - Spend stamina coin
 * Multiple characters
 * More levels (using code rather than Pico 8's map editor to store them)
 * Procedurally generated levels
+* Option to turn off on screen timer
 
 # Bugs
 * Players occassionally clip through walls while climbing
